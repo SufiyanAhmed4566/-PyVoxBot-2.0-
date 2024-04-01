@@ -3,7 +3,7 @@
 
 # PyVoxBot 2.0 🎙️
 
-![PyVoxBot Logo](https://github.com/SufiyanAhmed4566/PyVoxBot-2.0/blob/main/PyVoxBot.py)
+![PyVoxBot Logo](Screenshot_2024-03-26-01-33-40-020-edit_com.microsoft.bing.jpg)
 
 ## Overview
 PyVoxBot 2.0 is a versatile text-to-speech (TTS) tool that brings spoken words to life across different platforms. Whether you're on iOS, Windows, or Android, PyVoxBot has you covered! 🌟
