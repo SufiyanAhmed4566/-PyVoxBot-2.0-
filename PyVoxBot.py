@@ -1,4 +1,4 @@
-import osjjj
+import os
 import androidhelper
 
 if __name__ == "__main__":
