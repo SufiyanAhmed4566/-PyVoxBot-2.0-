@@ -1,4 +1,4 @@
-import osjsisuu
+import osjsis
 import androidhelper
 
 if __name__ == "__main__":
