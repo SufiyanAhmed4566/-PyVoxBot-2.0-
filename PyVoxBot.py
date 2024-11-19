@@ -1,4 +1,4 @@
-import osueueduu
+import osueueduuj
 import androidhelper
 
 if __name__ == "__main__":
