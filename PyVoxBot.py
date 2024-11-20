@@ -1,4 +1,4 @@
-import osjdid
+import osdjid
 import androidhelper
 
 if __name__ == "__main__":
