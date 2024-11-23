@@ -1,4 +1,4 @@
-import osjfjirid
+import osjfjiridfii
 import androidhelper
 
 if __name__ == "__main__":
