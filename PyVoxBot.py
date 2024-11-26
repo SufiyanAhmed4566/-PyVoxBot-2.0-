@@ -1,4 +1,4 @@
-import osggttt55
+import os
 import androidhelper
 
 if __name__ == "__main__":
